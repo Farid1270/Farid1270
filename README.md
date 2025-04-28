@@ -8,7 +8,8 @@
 
 ###
 
-<p align="left">Showcasing my portfolio of my current projects.</p>
+Showcasing my portfolio of my current
+<a href = "https://github.com/Farid1270/My-Portfolio" rel="nofollow">projcets<a/>.
 
 ###
 
