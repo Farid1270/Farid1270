@@ -9,7 +9,7 @@
 ###
 
 Showcasing my portfolio of my current
-<a href = "https://github.com/Farid1270/My-Portfolio" rel="nofollow">projcets<a/>.
+<a href = "https://github.com/Farid1270/My-Portfolio" rel="nofollow">projets<a/>.
 
 ###
 
